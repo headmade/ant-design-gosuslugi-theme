@@ -7,16 +7,16 @@
 
 Using ```create-react-app```
 
-## Install```bash 
+## Install
+```bash 
 yarn add less less-loader @ant-design/gosuslugi-theme
 ```
 
 ## Usage 
-
-
-```bash
+```
 yarn eject
 ```
+
 ```js
 import gosuslugiTheme from '@ant-design/gosuslugi-theme';
 
