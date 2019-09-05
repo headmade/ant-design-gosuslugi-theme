@@ -1,14 +1,13 @@
 <div align="center">
   <img src="https://gu-st.ru/st/img/logo_nobeta.0a1f5dfe6b.svg">
   <h1>
-    Ant Design GosUslugi Theme
+    Ant Design Theme
   </h1>
 </div>
 
+Using ```create-react-app```
 
-## Install
-If use ```create-react-app```
-```bash 
+## Install```bash 
 yarn add less less-loader @ant-design/gosuslugi-theme
 ```
 
